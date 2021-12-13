@@ -1,0 +1,19 @@
+pay slip for this month
+
+pre-requirments:
+
+employee login details.
+payslip details(pay structure).
+
+Scenario:
+
+1.open the official portal with login details.
+
+2.Select financial year and This month
+
+3.number of days present and absent details.
+
+4.earnings and deduction of the employee
+
+5.then generate payslip.
+
